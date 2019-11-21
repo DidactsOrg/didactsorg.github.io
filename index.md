@@ -7,7 +7,7 @@ How do we realize the full impact of machine learning in the physical sciences? 
 
 ![Quad Chart description of project](DIDACTS_one_slider.png)
 
-(Click [here](https://github.com/DidactsOrg/didactsorg.github.io/blob/master/DIDACTS_one_slider.pdf) for a PDF of the above Quad Chart)
+_(Click [here](https://github.com/DidactsOrg/didactsorg.github.io/blob/master/DIDACTS_one_slider.pdf) for a PDF of the above Quad Chart)_
 
 As basic sciences including seismology, meteorology, materials science, and others, are becoming data intensive, we are reaching a tipping point, where identifying and utilizing meaningful signals in noisy data become increasingly difficult and require innovative, effective computational methods. A particularly challenging problem in the physics domain is the identification of Dark Matter (and properties of other elementary particles). Eighty-five percent of our Universe comprises something that we do not understand: Dark Matter. It binds the whole Universe together; without it, galaxies would not form and life would not exist. Yet we have no experimental knowledge of its properties.
 
