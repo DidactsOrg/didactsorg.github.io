@@ -3,3 +3,4 @@ show_downloads: false
 title: DIDACTS
 description: Data-Intensive Discovery Accelerated by Computational Techniques for Science
 theme: jekyll-theme-minimal
+logo: didacts_logo.png
