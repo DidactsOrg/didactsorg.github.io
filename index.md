@@ -8,9 +8,9 @@ How do we realize the full impact of machine learning in the physical sciences? 
 
 ## Project leads
 
-* Christopher Tunnell
-* Waheed Bajwa
-* Hagit Shatkay
+* [Christopher Tunnell]
+* [Waheed Bajwa]
+* [Hagit Shatkay]
 
 ## Press
 
