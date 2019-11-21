@@ -1,4 +1,4 @@
-DIDACTS: Data-Intensive Discovery Accelerated by Computational Techniques for Science
+Data-Intensive Discovery Accelerated by Computational Techniques for Science
 =====================================================================================
 
 How do we realize the full impact of machine learning in the physical sciences?  DIDACTS is an institute conceptualization to tackle this issue.
@@ -6,8 +6,17 @@ How do we realize the full impact of machine learning in the physical sciences? 
 Workshops
 ---------
 
-
 * [DANCE](dance.rice.edu) focused on computational challenges to neutrino and dark-matter science
+
+Project leads
+-------------
+
+* Christopher Tunnell
+* Waheed Bajwa
+* Hagit Shatkay
+
+Press
+-----
 
 
 Funding
