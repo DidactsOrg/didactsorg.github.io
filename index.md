@@ -9,9 +9,9 @@ How do we realize the full impact of machine learning in the physical sciences? 
 
 ### Project leads
 
-* Christopher Tunnell, Physics and Astronomy ([more info](http://astroparticle.rice.edu))
-* Waheed Bajwa, Electrical and Computing Engineering / Statistics ([more info](http://www.inspirelab.us))
-* Hagit Shatkay, Computer and Information Sciences ([more info](https://www.eecis.udel.edu/~shatkay/))
+* Christopher Tunnell, Rice University, Physics and Astronomy ([more info](http://astroparticle.rice.edu))
+* Waheed Bajwa, Rutgers, Electrical and Computing Engineering / Statistics ([more info](http://www.inspirelab.us))
+* Hagit Shatkay, U. Delaware, Computer and Information Sciences ([more info](https://www.eecis.udel.edu/~shatkay/))
 
 ### Workshops
 
