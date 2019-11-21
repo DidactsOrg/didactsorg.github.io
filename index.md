@@ -17,9 +17,11 @@ _Publications and codes will be linked here once available.  Repositories will b
 
 ### Project leads
 
-* Christopher Tunnell, Rice University, Physics and Astronomy ([more info](http://astroparticle.rice.edu))
-* Waheed Bajwa, Rutgers, Electrical and Computing Engineering / Statistics ([more info](http://www.inspirelab.us))
-* Hagit Shatkay, U. Delaware, Computer and Information Sciences ([more info](https://www.eecis.udel.edu/~shatkay/))
+Please feel free to reach out to any of our PIs to discuss possible collaboration.
+
+* PI Christopher Tunnell, Rice University, Physics and Astronomy ([more info](http://astroparticle.rice.edu))
+* Co-PI Waheed Bajwa, Rutgers, Electrical and Computing Engineering / Statistics ([more info](http://www.inspirelab.us))
+* Co-PI Hagit Shatkay, U. Delaware, Computer and Information Sciences ([more info](https://www.eecis.udel.edu/~shatkay/))
 
 ### Workshops
 
