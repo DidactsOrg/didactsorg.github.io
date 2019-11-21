@@ -1,4 +1,4 @@
-# Data-Intensive Discovery Accelerated by Computational Techniques for Science
+# Welcome
 
 How do we realize the full impact of machine learning in the physical sciences?  DIDACTS is an institute conceptualization to tackle this issue.
 
