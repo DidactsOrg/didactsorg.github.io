@@ -1,11 +1,13 @@
-## Welcome
+## Data-Intensive Discovery Accelerated by Computational Techniques for Science (DIDACTS)
 
-How do we realize the full impact of machine learning in the physical sciences?  That is the core question that the DIDACTS project centers around.  The specific challenge is that physical sciences are at a tipping point whereas current machine learning methods do not adequately address their needs. 
+How do we realize the full impact of machine learning in the physical sciences?  That is the core question that the DIDACTS project centers around.  The specific challenge is that physical sciences are at a tipping point whereas current machine learning methods do not adequately address their needs.  
 
 
 ## Research information
 
-(Coming soon)
+![Quad Chart description of project](DIDACTS_one_slider.png)
+
+(More coming soon)
 
 ### Project leads
 
