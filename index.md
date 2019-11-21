@@ -1,16 +1,23 @@
 ## Welcome
 
-How do we realize the full impact of machine learning in the physical sciences?  DIDACTS is an institute conceptualization to tackle this issue.
+How do we realize the full impact of machine learning in the physical sciences?  That is the core question that the DIDACTS project centers around.  The specific challenge is that physical sciences are at a tipping point whereas current machine learning methods do not adequately address their needs. 
 
-### Workshops
 
-* [DANCE](dance.rice.edu) focused on computational challenges to neutrino and dark-matter science
+## Research information
+
+(Coming soon)
 
 ### Project leads
 
-* [Christopher Tunnell]
-* [Waheed Bajwa]
-* [Hagit Shatkay]
+* Christopher Tunnell, Physics and Astronomy ([more info](http://astroparticle.rice.edu))
+* Waheed Bajwa, Electrical and Computing Engineering / Statistics ([more info](http://www.inspirelab.us))
+* Hagit Shatkay, Computer and Information Sciences ([more info](https://www.eecis.udel.edu/~shatkay/))
+
+### Workshops
+
+A core part of our work is engaging with communities within the physical sciences that face similar challenges through a series of workshops each year.  So far, we have run the following workshops:
+
+* [DANCE 2019](dance.rice.edu) focused on computational challenges to neutrino and dark-matter science
 
 ### Press
 
