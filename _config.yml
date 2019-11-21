@@ -1,6 +1,6 @@
 
 show_downloads: false
 title: DIDACTS 
-description: Data-Intensive Discovery Accelerated by Computational Techniques for Science
+description: Teaching Science to Machine Learning
 theme: jekyll-theme-minimal
 logo: didacts_logo_small.png
