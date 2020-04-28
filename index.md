@@ -20,6 +20,7 @@ _Publications and codes will be linked here once available.  Repositories will b
 ### Posters
 
 ![NSF_poster](DIDACTS_Poster_NSF_2020.png)
+_(Click [here](https://github.com/DidactsOrg/didactsorg.github.io/blob/master/DIDACTS_Poster_NSF_2020.pdf) for a PDF of the above poster)_
 
 ### Project leads
 
