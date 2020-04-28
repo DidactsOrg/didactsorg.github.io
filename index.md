@@ -17,6 +17,10 @@ Astroparticle physics experiments, characterized by massive amounts of extremely
 
 _Publications and codes will be linked here once available.  Repositories will be within our [Github organization](https://github.com/DidactsOrg)._
 
+### Posters
+
+![NSF_poster](DIDACTS_Poster_NSF_2020.png)
+
 ### Project leads
 
 Please feel free to reach out to any of our PIs to discuss possible collaboration.
