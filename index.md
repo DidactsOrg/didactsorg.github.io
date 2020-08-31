@@ -20,6 +20,8 @@ _Publications and codes will be linked here once available.  Repositories will b
 ### Talks at workshops
 DIDACTS talk at Neutrino Physics and Machine Learning [talk](https://indico.slac.stanford.edu/event/371/contributions/1208/attachments/548/924/DIDACTS_higuera_v1.pdf) [video](https://stanford.zoom.us/rec/play/v5Msceqo-2g3T4ad5ASDBvN4W466K6qs03If_KYPn0_hWiYBOwD0M7sUM-fggeHxsjGn7SxcBkJ0SGlN?startTime=1595343774000&_x_zm_rtaid=M-2AyAMkRW-677f1IaUgFw.1595944723841.726fc94108ca99ef95aaf4a9eeebe639&_x_zm_rhtaid=401)
 
+GNN reconstruction progress talk at DANCE-ML 2020 [talk](https://indico.physics.lbl.gov/event/1192/contributions/4994/attachments/2338/3028/GNN_for_PosRec_SLiang_DANCE2020.pdf)
+
 ### Posters
 
 ![NSF_poster](DIDACTS_Poster_NSF_2020.png)
