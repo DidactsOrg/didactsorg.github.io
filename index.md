@@ -35,6 +35,14 @@ Please feel free to reach out to any of our PIs to discuss possible collaboratio
 * Co-PI Waheed Bajwa, Rutgers, Electrical and Computing Engineering / Statistics ([more info](http://www.inspirelab.us))
 * Co-PI Hagit Shatkay, U. Delaware, Computer and Information Sciences ([more info](https://www.eecis.udel.edu/~shatkay/))
 
+### Team
+
+* Aaron Higuera, Rice University, Physics and Astronomy
+* Shixiao Liang, Rice University, Physics and Astronomy
+* Alex Oranday, Rice University, Physics and Astronomy
+* Tina Peters, U. Delaware, Computer and Information Sciences
+* Venkat Roy, Rutgers, Electrical and Computing Engineering / Statistics
+
 ### Workshops
 
 A core part of our work is engaging with communities within the physical sciences that face similar challenges through a series of workshops each year.  So far, we have run the following workshops:
