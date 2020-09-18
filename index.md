@@ -47,7 +47,9 @@ Please feel free to reach out to any of our PIs to discuss possible collaboratio
 
 A core part of our work is engaging with communities within the physical sciences that face similar challenges through a series of workshops each year.  So far, we have run the following workshops:
 
-* [DANCE 2019](dance.rice.edu) focused on computational challenges to neutrino and dark-matter science
+* [DANCE-ML 2020](https://indico.physics.lbl.gov/event/1192/overview) a forum to share and discuss machine learning applications in the context of the dark matter direct detection and neutrino physics community.
+
+* [DANCE 2019](http://dance.rice.edu/) focused on computational challenges to neutrino and dark-matter science
   * ![Image](IMG_3687.jpeg)
 
 
