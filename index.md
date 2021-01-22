@@ -27,7 +27,7 @@ _Publications and codes will be linked here once available.  Repositories will b
 * Learning Product Graphs Underlying Smooth Graph Signals, [arXiv:2002.11277](https://arxiv.org/abs/2002.11277) 
 * Sensitivity of the DARWIN observatory to the neutrinoless double beta decay of 136Xe, [arXiv:2003.13407](https://arxiv.org/abs/2003.13407)
 * [Processing of Graph Structured Data: An Introduction](https://www.youtube.com/watch?v=AD4ZcgCR62E)
-* [SNEWS 2.0](https://www.youtube.com/watch?v=ZZO4CIqUTcY)
+* [SNEWS 2.0 Cyberinfrastructure](https://www.youtube.com/watch?v=ZZO4CIqUTcY) [Agile Scrum Development in an ad hoc Software Collaboration](https://arxiv.org/abs/2101.07779)
 * SIAM CSE21 March 2021: Graph Convolutional Neural Networks for Position Reconstruction in XENON1T
 
 ### Posters
