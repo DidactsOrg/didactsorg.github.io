@@ -17,13 +17,13 @@ Astroparticle physics experiments, characterized by massive amounts of extremely
 
 Most of our non-paper content can be found in [our Zenodo community](https://zenodo.org/communities/didacts/), including anything below that isn't directly citable.  _Publications and codes will be linked here once available.  Repositories will be within our [Github organization](https://github.com/DidactsOrg)._
 
-### Talks at workshops
+### Highlighted talks at workshops
 
 * _Quantifying Reconstruction Uncertainty using Probabilistic Graphical Models_ at Community Laboratory for AL Research at the Intersection with Physics (CLARIPHY) Topical Meeting [talk](https://indico.fnal.gov/event/49237/)
 * DIDACTS talk at Neutrino Physics and Machine Learning [talk](https://indico.slac.stanford.edu/event/371/contributions/1208/attachments/548/924/DIDACTS_higuera_v1.pdf), you can also find a recorded video [here](https://stanford.zoom.us/rec/play/v5Msceqo-2g3T4ad5ASDBvN4W466K6qs03If_KYPn0_hWiYBOwD0M7sUM-fggeHxsjGn7SxcBkJ0SGlN?startTime=1595343774000&_x_zm_rtaid=M-2AyAMkRW-677f1IaUgFw.1595944723841.726fc94108ca99ef95aaf4a9eeebe639&_x_zm_rhtaid=401)
 * GNN reconstruction progress talk at DANCE-ML 2020 [talk](https://indico.physics.lbl.gov/event/1192/contributions/4994/attachments/2338/3028/GNN_for_PosRec_SLiang_DANCE2020.pdf)
 
-### Deliverables
+### Other deliverables
 
 * Learning Product Graphs Underlying Smooth Graph Signals, [arXiv:2002.11277](https://arxiv.org/abs/2002.11277) 
 * Sensitivity of the DARWIN observatory to the neutrinoless double beta decay of 136Xe, [arXiv:2003.13407](https://arxiv.org/abs/2003.13407)
