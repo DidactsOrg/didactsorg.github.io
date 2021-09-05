@@ -13,9 +13,9 @@ As basic sciences including seismology, meteorology, materials science, and othe
 
 Astroparticle physics experiments, characterized by massive amounts of extremely noisy spatiotemporal sensor data, provide an ideal development ground for computational methods that will be broadly applicable in experimental sciences. Our earlier studies have demonstrated that current neural network- based methods are not a good fit for encoding prior physical knowledge, and for faithfully representing physical constraints in these experiments. We propose going back to foundational probabilistic modeling and inverse problems, into which physical constraints and prior knowledge can be readily incorporated. This proposal brings together a well-qualified interdisciplinary team, comprising an astrophysicist working on particle physics detectors, a machine learning researcher with much interdisciplinary collaborative experience in the sciences, and an engineer with extensive expertise in signal processing, statistics. and inverse problems. The team is thus ideally positioned to make significant contributions advancing both data science and its impact on data-driven scientific disciplines.
 
-### Publications and codes
+## Deliverables
 
-_Publications and codes will be linked here once available.  Repositories will be within our [Github organization](https://github.com/DidactsOrg)._
+Most of our non-paper content can be found in [our Zenodo community](https://zenodo.org/communities/didacts/), including anything below that isn't directly citable.  _Publications and codes will be linked here once available.  Repositories will be within our [Github organization](https://github.com/DidactsOrg)._
 
 ### Talks at workshops
 
@@ -48,7 +48,6 @@ Please feel free to reach out to any of our PIs to discuss possible collaboratio
 
 * Aaron Higuera, Rice University, Physics and Astronomy
 * Shixiao Liang, Rice University, Physics and Astronomy
-* Alex Oranday, Rice University, Physics and Astronomy
 * Tina Peters, U. Delaware, Computer and Information Sciences
 * Venkat Roy, Rutgers, Electrical and Computing Engineering / Statistics
 
