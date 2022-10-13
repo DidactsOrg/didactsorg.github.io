@@ -17,6 +17,13 @@ Astroparticle physics experiments, characterized by massive amounts of extremely
 
 Most of our non-paper content can be found in [our Zenodo community](https://zenodo.org/communities/didacts/), including anything below that isn't directly citable.  _Publications and codes will be linked here once available.  Repositories will be within our [Github organization](https://github.com/DidactsOrg)._
 
+### Papers
+
+* A Method for Quantifying Position Reconstruction Uncertainty in Astroparticle Physics using Bayesian Networks  
+[arXiv:2205.10305](https://arxiv.org/abs/2205.10305)
+* Domain-informed neural networks for interaction localization within astroparticle experiments  
+[arXiv:2112.07995](https://arxiv.org/abs/2112.07995)  [ Front. Artif. Intell. 5, 832909 (2022)](https://www.frontiersin.org/articles/10.3389/frai.2022.832909)
+
 ### Highlighted talks at workshops
 
 * _Quantifying Reconstruction Uncertainty using Probabilistic Graphical Models_ at Community Laboratory for AL Research at the Intersection with Physics (CLARIPHY) Topical Meeting [talk](https://indico.fnal.gov/event/49237/)
